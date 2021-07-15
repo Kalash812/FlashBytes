@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "288516052958",
+    "project_id": "flashbytes-ff9fa",
+    "storage_bucket": "flashbytes-ff9fa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:288516052958:android:250e729d330f7fe3342f4f",
+        "android_client_info": {
+          "package_name": "com.kalash.newsApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "288516052958-mabl661g7995ti9fomevceuinvqva53v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWgGZUH80OPOREaC2IzUix15zT2h2KniE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "288516052958-mabl661g7995ti9fomevceuinvqva53v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
